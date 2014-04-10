@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plants>
+	<tree>
+	   <pine
+                count="100"
+		max-height="45"
+                min-height="20"
+		deciduous="false"/>    
+           <oak
+		count="30"
+		max-height="35"
+                min-height="15"
+		deciduous="true"/>
+           <maple
+		count="150"
+		max-height="30"
+                min-height="20"
+		deciduous="true"/>          
+           <willow
+		count="20"
+		max-height="15"
+                min-height="10"
+		deciduous="true"/> 
+	   <linden
+		count="75"
+		max-height="20"
+                min-height="15"
+		deciduous="true"/> 
+	</tree>
+        <shrub>
+	   <lilac
+		count="30"
+		max-height="10"
+                min-height="3"
+		deciduous="true"/>
+	   <jasmine
+		count="15"
+		max-height="5"
+                min-height="2"
+		deciduous="true"/>
+	   <buxus
+		count="45"
+		max-height="2"
+                min-height="1"
+		deciduous="false"/>	 
+        </shrub>	
+</plants>
